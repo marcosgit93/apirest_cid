@@ -4,5 +4,4 @@
 *.sqlite3
 # Name of your virtuan env
 .vEnv
-.env
 *pyc
